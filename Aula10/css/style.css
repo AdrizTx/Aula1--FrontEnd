@@ -1,0 +1,82 @@
+
+
+body{
+    /* background-color: black;  */
+    /* Heximadecimal */
+    background-color: #C7D8C3;
+    /* RGB */
+    background-color: rgb(199, 216, 195);
+    /* Com Transparencia */
+    background-color: rgba(199, 216, 195, 0.705);
+
+}
+
+h1 {
+    font-family: "Climate Crisis", sans-serif;
+    color: #55754e;
+    font-size: 60px;
+    font-size: 8vw;
+    /* line-height: Espaçamento entre linhas */
+    line-height: 0.5em;
+}
+
+.p1{
+    font-size: 1.0em;
+    font-family: "Boldense", system-ui;
+    color: #75946e;
+    font-size: 3vw;
+    font-weight: bold;
+    
+}
+
+.p2{
+    font-size: 1.0em;
+    font-family: "Boldense", system-ui;
+    color: #75946e;
+    font-size: 3vw;
+
+}
+
+h2{
+    font-family: "Climate Crisis", sans-serif;
+    color: #55754e;
+    font-size: 5vw;
+    line-height: 0.5em;
+}
+
+/* Span: Seletor */
+span{
+    font-size: 2em;
+    font-weight: bold;
+    color: #55754e;
+}
+/* #################################################################### */
+
+/* px(PIXEL) É UMA UNIDADE FIXA. O TAMANHO SEMPRE O MEMSO INDEPENDENTE DO TAMANHO DA TELA */
+
+/* 2em - O dobro do do tamanho padrao, significa que ele é o multiplicador do tamanho base */
+
+/* 120% - 20% Maior que o padrão */
+
+/* 5vw - 5%da largura da tela/ isso faz com que o tamanho do texto se ajuste ao tamanho da tela, MUITO util para design responsivo */
+
+/* #################################################################### */
+
+
+/* #################################################################### */
+
+/* 
+Controla a grossura (negrito) do texto
+
+100 = Super fino
+
+400 = Normal
+
+700 = Negrito
+
+900 = Super Negrito
+
+*/
+
+/* #################################################################### */
+
