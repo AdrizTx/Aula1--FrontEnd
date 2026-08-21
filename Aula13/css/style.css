@@ -1,0 +1,68 @@
+/* ####################################### */
+
+/* CONFIGURAÇÃO GERAL */
+
+/* ####################################### */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+}
+
+h1{
+    margin-bottom: 5px;
+}
+
+h2{
+    margin-top: 40px;
+}
+
+/* ####################################### */
+
+/* 1. BLOCK */
+
+/* ####################################### */
+
+/* OCUPA TODA A LARGURA DISPONIVEL  (EX: div, p, h1) */
+
+.block{
+    display: block;
+    background-color: cadetblue;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+/* ####################################### */
+
+/* 2. INLINE */
+
+/* ####################################### */
+/* Ocupa só o espaço do conteúdo */
+
+.Inline{
+    display: inline;
+    background-color: aqua;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+/* ####################################### */
+
+/* 3. INLINE BLOCK */
+
+/* ####################################### */
+/* Ocupa só o espaço do conteúdo, permite controlar o width e height */
+
+.Inline-block{
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
